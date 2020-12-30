@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;   
+}
+
+.buttons_tbl{
+  display: flex;
+}
+
+.delete{
+    padding: 3px;
+      margin-right: 1px;
+} 
+
+.download {
+    margin-left: 2px;
+    padding: 2px;
+   
+}
+
+.newFolder{
+    padding: 5px;
+}
+
+.back{
+    padding: 6px;
+    margin: 3px;
+}
+
+.conteiner {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.newFolder, .uplodeFiles{
+    padding: 6px;
+    margin: 4px;
+}
