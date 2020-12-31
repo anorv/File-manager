@@ -70,7 +70,7 @@ $files = array_values($files);
 </tbody>
 </table>
 <!-- Button go back -->
-<button class="back" onclick="history.go(-1);">Back </button>
+<button class="back" type="button" onclick="history.back();">Back</button>
  <!-- Pasidometi apie mygtuka vaikscioti atgal su $_server -->
 <!-- Create new directory -->
 <div class="conteiner">
