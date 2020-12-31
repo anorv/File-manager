@@ -1,8 +1,8 @@
 ## File Manager
 
-With this file manager you can easily manage your files and directories. You can:
+With this file manager you can easily manage your files and directories. <br>You can:
 - Create new directories;
-- Upload files who have less then 2 MB, like: <em>.JPEG/.JPG/.PNG/ .PDF/.DOC/.DOCX/.TXT/.PPT/.PPTX/.ODS/.XLS;</em>
+- Upload files like: <em>.JPEG/.JPG/.PNG/ .PDF/.DOC/.DOCX/.TXT/.PPT/.PPTX/.ODS/.XLS;</em>, but they have to be less than 2MB;
 .XLSX,.ODT,.HTML,.HTM;
 - Download files;
 - Delete files;
